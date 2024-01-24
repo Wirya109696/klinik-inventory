@@ -1,0 +1,7 @@
+.dtfh-floatingparent.dtfh-floatingparenthead{
+    height: 150px !important;
+}
+table.dataTable{
+    margin-top: 0px !important;
+}
+table.fixedHeader-floating{background-color:white}table.fixedHeader-floating.no-footer{border-bottom-width:0}table.fixedHeader-locked{position:absolute !important;background-color:white}@media print{table.fixedHeader-floating{display:none}}
